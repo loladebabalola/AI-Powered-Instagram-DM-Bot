@@ -1,5 +1,7 @@
-import subprocess
+pip3 install -r requirements.txt import subprocess
 import sys
+
+
 
 reqmodules = [
     "pycryptodomex",
